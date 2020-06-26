@@ -1,3 +1,10 @@
 body {
   background-color:#F7EAE8;
 }
+h1 {
+  text-align:center;
+}
+h5 {
+  text-align:center;
+  font-family:italic;
+}
